@@ -1,4 +1,10 @@
-
 header {
-  color: white;
+ width: 901px;
+ display: inline-block;
+}
+ul {
+  list-style-type: none;
+}
+header li {
+  float: right;
 }
